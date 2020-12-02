@@ -23,8 +23,22 @@ p{
     color: #333333;
 }
 
+img{
+    padding: 20px;
+}
+
+article{
+    padding-bottom: 70px;
+    margin-right: px;
+}
+
+.blog-articles{
+    margin-left: -11%;
+    margin-right: -20%;
+}
+
 .pl-2, .px-2 {
-    padding-left: .5rem!important;
+    padding-left: 2.0rem!important;
     margin-top: 20px;
 }
 
@@ -35,6 +49,7 @@ p{
     font-size: 16px;
     line-height: 20px;
     border-radius: 12px;
+    padding-left: 2.0rem!important;
 }
 
 a{
