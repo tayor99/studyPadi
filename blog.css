@@ -12,6 +12,7 @@ h5{
     font-weight: 700;
     line-height: 22px;
     color: #102a67;
+    margin-top: -8px;
 }
 
 p{
@@ -21,14 +22,16 @@ p{
     font-weight: 500;
     line-height: 20px;
     color: #333333;
+    margin-top: 16px;
 }
 
 img{
-    padding: 15px;
+    padding-left: 9px;
+    margin-bottom: 7px;
 }
 
 article{
-    padding-bottom: 70px;
+    padding-bottom: 30px;
 }
 
 .blog-articles{
@@ -38,17 +41,20 @@ article{
 
 .pl-2, .px-2 {
     padding-left: 2.0rem!important;
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
 .btn{
     font-family: Montserrat;
-    font-style: normal;
-    font-weight: bold;
     font-size: 16px;
-    line-height: 20px;
-    border-radius: 12px;
-    padding-left: 2.0rem!important;
+    font-style: normal;
+    font-weight: 700;
+}
+button{
+    background: #255ADC;
+    border-radius: 15px;
+    margin-left: 20px;
+    margin-bottom: 5px;
 }
 
 a{
